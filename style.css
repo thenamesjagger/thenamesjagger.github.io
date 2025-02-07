@@ -136,6 +136,18 @@ body {
     box-shadow: 0 4px 20px #4c566a;
 }
 
+.it {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px #4c566a;
+}
+
 .web {
     display: flex;
     align-items: center;
